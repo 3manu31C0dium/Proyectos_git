@@ -1,0 +1,7 @@
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Practica1.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Practica1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
