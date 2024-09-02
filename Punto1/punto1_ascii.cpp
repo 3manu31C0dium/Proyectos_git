@@ -1,24 +1,21 @@
 #include <iostream>
+#include <cctype>
+
 using namespace std;
 
-int punto1() {
-    char letra;
-    cout << "Ingrese una letra: "<< endl;
-    cin >> letra ;
+int vocal() {
+    char c;
+    cout << "Ingrese un caracter: ";
+    cin >> c;
 
-    char mayus = toupper(letra);
+    c = tolower(c);
 
-    if (mayus == 'A' || mayus == 'E' || mayus == 'I' || mayus == 'O' || mayus == 'U')
-    {
-        cout << letra << " es una vocal.\n";
-    }
-    else if (mayus >= 'A' && mayus <= 'Z')
-    {
-        cout << letra << " es una consonante.\n";
-    }
-    else 
-    {
-        cout << letra << " no es una letra.\n";
+    if (!isalpha(c)) {
+        cout << c << " no es una letra." << endl;
+    } else if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+        cout << c << " es una vocal." << endl;
+    } else {
+        cout << c << " es una consonante." << endl;
     }
 
     return 0;

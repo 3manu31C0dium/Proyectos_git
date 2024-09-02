@@ -1,0 +1,3 @@
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Punto4/cmake-build-debug/CMakeFiles/Punto4.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Punto4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yoxd1/OneDrive/Escritorio/Proyectos_git/Punto4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
