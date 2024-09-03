@@ -18,29 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="541a1836-eedf-4e35-8ecf-866bf4ecbdf6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Punto1/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b3aba85b9d142d1f05f5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-01T01-19-00-0862.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/punto1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/punto1_ascii.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/punto1_ascii.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/punto2.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/Punto1.dir/punto2.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/Punto1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/Punto1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/punto1_ascii.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Punto1/punto1_ascii.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Punto1/punto2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725316040149</updated>
-      <workItem from="1725316041656" duration="933000" />
+      <workItem from="1725316041656" duration="1262000" />
     </task>
     <servers />
   </component>
